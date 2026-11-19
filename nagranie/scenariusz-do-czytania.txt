@@ -1,0 +1,167 @@
+EXPERTOVO — TEKST DO CZYTANIA POD FILM
+
+Włącz wersję filmu bez lektora. Tekst jest dopasowany do jej scen.
+Czytaj swobodnie; po fragmencie zostaw chwilę ciszy do zmiany ekranu.
+Godziny, nazwy ekranów i uwagi w nawiasach są wskazówkami — nie czytaj ich na głos.
+Na początku nagrania powiedz „trzy, dwa, jeden, start” i na „start” uruchom film.
+Potem zacznij pierwszy fragment. Wystarczy dyktafon; kamera nie jest potrzebna.
+
+00:01–00:12 · Dobry temat potrzebuje właściwych głosów.
+Dobra, chłopaki, pokażę wam, co mamy. Chodziło o to, żeby te nasze ustalenia zobaczyć już na ekranie i sprawdzić, czy ten proces się klei.
+[Pauza do kolejnego ekranu.]
+
+00:13–00:28 · Dziennikarz / Ekspert
+Wszystko jest na przykładowych danych. Mamy stronę dziennikarza, stronę eksperta i widok dla nas, do sprawdzania profili i ogarniania zgłoszeń.
+[Pauza do kolejnego ekranu.]
+
+00:28–00:42 · Tytuł tematu * / Kontekst i oczekiwana perspektywa *
+Zacznijmy od dziennikarki. Robi materiał o zatrzymywaniu wody w mieście. Potrzebuje kogoś, kto wyjaśni temat i poda konkretny przykład.
+[Pauza do kolejnego ekranu.]
+
+00:42–00:54 · Nazwisko, specjalizacja lub temat / Dziedzina
+Tutaj ma katalog ekspertów. Może szukać po nazwisku, specjalizacji albo temacie. Na pilotaż mamy przyrodę i marketing.
+[Pauza do kolejnego ekranu.]
+
+00:54–01:09 · Źródło / Rekomendacja
+W profilu widać, czym dana osoba się zajmuje i skąd mamy te informacje. Tu jest źródło, dalej rekomendacja, a jeszcze coś jest deklaracją eksperta. Wiadomo, na czym opieramy wybór.
+[Pauza do kolejnego ekranu.]
+
+01:10–01:24 · Marek Borowy / Bez historii medialnej
+Ekspert nie musi specjalnie przygotowywać dla nas wielkiego pakietu dokumentów. Korzystamy z tego, co już ma. Może też mieć konkretny dorobek, ale jeszcze nie występować w mediach.
+[Pauza do kolejnego ekranu.]
+
+01:25–01:36 · Opisz potrzebę własnymi słowami * / Wariant doboru — symulacja
+Można też własnymi słowami opisać, kogo się potrzebuje. Docelowo pomaga tutaj AI. W demo pokazujemy symulację tego doboru.
+[Pauza do kolejnego ekranu.]
+
+01:37–01:47 · Anna Rzeczna / Marek Borowy
+Dostajemy propozycje z wyjaśnieniem. Jedna osoba ogarnia gospodarkę wodną, druga dorzuca perspektywę zieleni i ekologii. Widać, dlaczego mogą się uzupełniać.
+[Pauza do kolejnego ekranu.]
+
+01:48–01:52 · Anna Rzeczna / Marek Borowy
+Dziennikarka wybiera, kogo chce zaprosić.
+[Pauza do kolejnego ekranu.]
+
+01:53–02:02 · Kontekst i oczekiwana perspektywa * / Redakcja *
+Teraz przygotowuje temat. Opisuje, czego potrzebuje, dla jakiej redakcji, w jakiej formie i kiedy.
+[Pauza do kolejnego ekranu.]
+
+02:03–02:07 · Odpowiedź do * / Termin rozmowy / wypowiedzi *
+Termin odpowiedzi ustala osobno.
+[Pauza do kolejnego ekranu.]
+
+02:07–02:13 · Zatwierdź i wyślij zaproszenia / Anna Rzeczna
+Sprawdza wybrane osoby i wysyła zaproszenia.
+[Pauza do kolejnego ekranu.]
+
+02:13–02:18 · Dziennikarz / Ekspert
+Teraz przechodzimy na eksperta.
+[Pauza do kolejnego ekranu.]
+
+02:19–02:28 · Jestem zainteresowany/a / Odmów
+Ekspert widzi propozycję. Może być zainteresowany, odmówić, zaproponować inny termin albo dopytać o szczegóły.
+[Pauza do kolejnego ekranu.]
+
+02:29–02:36 · Twoja wiadomość / Wyślij w demo
+Tutaj pyta, czy chodzi o całe miasto, czy o małe rozwiązania przy budynkach.
+[Pauza do kolejnego ekranu.]
+
+02:37–02:44 · Twoja wiadomość / Wyślij w demo
+Dziennikarka odpisuje. Dogadują szczegóły w swoim wątku.
+[Pauza do kolejnego ekranu.]
+
+02:45–02:48 · Linki i załączniki w rozmowie / Wybierz dokument, obraz, audio lub wideo
+Mogą też przesyłać pliki.
+[Pauza do kolejnego ekranu.]
+
+02:49–02:56 · Tylko Ty i ten ekspert.
+Każdy ekspert ma osobną rozmowę. Nie widzi ustaleń z pozostałymi osobami.
+[Pauza do kolejnego ekranu.]
+
+02:57–03:01 · Zainteresowanie / Ukryte przed umówieniem
+Samo zainteresowanie jeszcze nie oznacza umówienia.
+[Pauza do kolejnego ekranu.]
+
+03:02–03:09 · Podpis do wykorzystania w materiale * / Potwierdź gotowość i sposób przedstawienia
+Ekspert potwierdza warunki i podpis do materiału.
+[Pauza do kolejnego ekranu.]
+
+03:10–03:16 · We własnym imieniu / W imieniu instytucji
+Wskazuje też, czy mówi we własnym imieniu, czy w imieniu instytucji.
+[Pauza do kolejnego ekranu.]
+
+03:17–03:21 · Potwierdź rozmowę / Zatwierdzony podpis:
+Teraz dziennikarka potwierdza rozmowę.
+[Pauza do kolejnego ekranu.]
+
+03:22–03:29 · Wybrane kontakty w tym wątku / ekspert1@example.test
+I dopiero po tym potwierdzeniu pojawia się wybrany kontakt, na którego udostępnienie ekspert się zgodził.
+[Pauza do kolejnego ekranu.]
+
+03:29–03:35 · +1 rozmówca w tym temacie / Dobierz osoby
+Jeżeli temat się rozrasta, można zwiększyć liczbę rozmówców. Nadal pracujemy w tej samej sprawie.
+[Pauza do kolejnego ekranu.]
+
+03:36–03:41 · Nowa wersja ustaleń w tym wątku / Termin rozmowy *
+Termin, format albo zakres też można zmienić w tym samym wątku.
+[Pauza do kolejnego ekranu.]
+
+03:42–03:49 · Termin minął / Zapytaj, czy temat jest aktualny
+Mamy też ten przypadek, o którym gadaliśmy: ekspert wraca po kilku dniach, a zaproszenie już wygasło.
+[Pauza do kolejnego ekranu.]
+
+03:50–03:55 · Zapytaj, czy temat jest aktualny
+Może zapytać, czy temat jest jeszcze aktualny.
+[Pauza do kolejnego ekranu.]
+
+03:55–03:58 · Ekspert pyta: czy temat jest jeszcze aktualny?
+Dziennikarka dostaje powiadomienie.
+[Pauza do kolejnego ekranu.]
+
+03:59–04:04 · Nowy termin odpowiedzi * / Nowy termin rozmowy *
+I może wznowić temat z nowymi terminami.
+[Pauza do kolejnego ekranu.]
+
+04:05–04:10 · Odłóż z decyzją o każdej rozmowie
+Temat można też odłożyć i wrócić do niego później.
+[Pauza do kolejnego ekranu.]
+
+04:11–04:19 · Co z każdą umówioną rozmową? / Zachowaj umówienie
+Przy umówionych rozmowach trzeba zdecydować, które zostają aktualne, a które odwołujemy.
+[Pauza do kolejnego ekranu.]
+
+04:20–04:24 · Wynik współpracy / Co się wydarzyło?
+Po rozmowie obie strony osobno potwierdzają, czy się odbyła.
+[Pauza do kolejnego ekranu.]
+
+04:25–04:33 · Prywatna ocena współpracy / Gwiazdki — od 1 do 5
+Mogą też wystawić sobie prywatną ocenę. Przy jednej, dwóch albo trzech gwiazdkach potrzebny jest komentarz.
+[Pauza do kolejnego ekranu.]
+
+04:33–04:38 · Sprawy do wyjaśnienia / Stanowiska
+Sporną sytuację wyjaśnia nasz zespół.
+[Pauza do kolejnego ekranu.]
+
+04:38–04:43 · Rozmowy, publikacje i dalsze cytowania
+Ekspert ma też swoje materiały.
+[Pauza do kolejnego ekranu.]
+
+04:44–04:53 · Wystąpienia / rozmowy / Publikacje i przedruki / cytowania
+Osobno liczymy wystąpienia, publikacje i dalsze cytowania. Jedna rozmowa może przecież pojawić się w kilku mediach.
+[Pauza do kolejnego ekranu.]
+
+04:54–05:00 · Afiliacja w treści: / Potwierdzono w treści
+Osobno sprawdzamy też, czy w materiale faktycznie użyto przekazanej afiliacji.
+[Pauza do kolejnego ekranu.]
+
+05:00–05:05 · Rozmowy, publikacje i dalsze cytowania
+Dobra, to taki ogólny przelot.
+[Pauza do kolejnego ekranu.]
+
+05:06–05:11 · Przejdź scenariusze w demo v2
+Pod filmem jest przycisk do demo. Możecie sami przejść scenariusze.
+[Pauza do kolejnego ekranu.]
+
+05:12–05:21 · Dobry temat potrzebuje właściwych głosów. / Wybierz scenariusz
+Jak coś wam nie pasuje albo nie wiadomo, co zrobić dalej, dajcie znać. Przejdziemy przez to razem i poprawimy.
+[Pauza do kolejnego ekranu.]
